@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Sweet Crumbs",
+  title: "Sweet Crumbs|Cakes & Bakes",
   description: "Sweet Crumbs - Fresh Cakes & Bakes",
 };
 
