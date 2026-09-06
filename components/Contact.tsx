@@ -42,7 +42,7 @@ export default function Contact() {
           <span>📞</span>
           <div>
             <strong>Call Us</strong>
-            <p>+91 98765 43210</p>
+            <p>+91 9876000000</p>
           </div>
         </div>
       </div>
